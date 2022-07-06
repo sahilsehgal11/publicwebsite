@@ -15,6 +15,7 @@ namespace PraticeApp
 {
     public class Startup
     {
+        //SECOND COMMENt
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
